@@ -1,0 +1,8 @@
+file_format: "1"
+id: Cocon
+name: Cocon
+type: shield
+url: https://github.com/waressyoi/Cocon-zmk-config
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

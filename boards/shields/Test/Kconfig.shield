@@ -1,0 +1,5 @@
+config SHIELD_COCON_R
+    def_bool $(shields_list_contains,Cocon_R)
+
+config SHIELD_COCON_L
+    def_bool $(shields_list_contains,Cocon_L)
