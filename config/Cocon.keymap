@@ -58,10 +58,10 @@
 
         MOUSE {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &mkp MB1  &mkp MB2  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans  &trans
+&trans  &trans  &trans  &trans  &msc SCRL_UP    &trans  &trans    &trans    &trans  &trans
+&trans  &trans  &trans  &trans  &msc SCRL_DOWN  &trans  &mkp MB1  &mkp MB2  &trans  &trans
+&trans  &trans  &trans  &trans  &trans          &trans  &trans    &trans    &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans          &trans  &trans    &trans    &trans  &trans
             >;
         };
 
