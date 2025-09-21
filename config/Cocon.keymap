@@ -65,7 +65,7 @@
             >;
         };
 
-        SCROLL+NUMBER {
+        SCROLL_NUMBER {
             bindings = <
 &trans  &trans  &trans  &trans  &kp LA(F4)  &kp KP_PLUS      &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS
 &trans  &trans  &trans  &trans  &trans      &kp KP_ASTERISK  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_SLASH
